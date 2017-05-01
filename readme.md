@@ -1,6 +1,6 @@
 # Installation
 
-    $ npm install --save that # duh
+    $ npm install --save that-thing # duh
 
 It works in browsers too (tested in Chrome), just include the index.js
 
