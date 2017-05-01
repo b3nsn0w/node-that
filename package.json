@@ -1,0 +1,30 @@
+{
+  "name": "that-thing",
+  "version": "1.0.0",
+  "description": "That thing you were looking for",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "b3nsn0w",
+  "license": "WTFPL",
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "dependencies": {
+    "standard": "^10.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeSnow97/node-that.git"
+  },
+  "keywords": [
+    "that",
+    "thing",
+    "this"
+  ],
+  "bugs": {
+    "url": "https://github.com/DeeSnow97/node-that/issues"
+  },
+  "homepage": "https://github.com/DeeSnow97/node-that#readme"
+}
